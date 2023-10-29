@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CrudOperation\MyDB\bin\Debug\MyDB.dll.config
+C:\Users\DELL\source\repos\CrudOperation\MyDB\bin\Debug\MyDB.dll
+C:\Users\DELL\source\repos\CrudOperation\MyDB\bin\Debug\MyDB.pdb
+C:\Users\DELL\source\repos\CrudOperation\MyDB\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\CrudOperation\MyDB\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\CrudOperation\MyDB\obj\Debug\MyDB.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CrudOperation\MyDB\obj\Debug\MyDB.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CrudOperation\MyDB\obj\Debug\MyDB.csproj.CopyComplete
+C:\Users\DELL\source\repos\CrudOperation\MyDB\obj\Debug\MyDB.dll
+C:\Users\DELL\source\repos\CrudOperation\MyDB\obj\Debug\MyDB.pdb
